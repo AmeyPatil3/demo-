@@ -1,0 +1,5 @@
+{
+  "name": "Matomo Analytics Demo & Landing Page",
+  "description": "A high-performance, aesthetically pleasing landing page built with React and Tailwind CSS, featuring an integration guide for Matomo Analytics to track visitor behavior.",
+  "requestFramePermissions": []
+}
